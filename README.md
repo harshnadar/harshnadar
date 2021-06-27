@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Harsh Nadar. Am currently a Senior Undergraduate at IIT BHU majoring in Electrical Engineering. 
+I am Harsh Nadar. Currently a Senior Undergraduate at IIT BHU majoring in Electrical Engineering. 
 
 I am a competitve programmer cum a Data Science enthusiast cum a developer:
 
