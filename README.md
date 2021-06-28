@@ -1,21 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I am Harsh Nadar.
 
-I am Harsh Nadar. Currently a Senior Undergraduate at IIT BHU majoring in Electrical Engineering. 
+Currently a Senior Undergraduate at IIT BHU majoring in Electrical Engineering. 
 
-I am a competitve programmer cum a Data Science enthusiast cum a developer:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshnadar&label=Profile%20views&color=129e00&style=plastic" alt="harshnadar" /> </p>
 
-[<img align="left" alt="Harsh | Codeforces" width="22px" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" />][Codeforces]
+⚡ Wondering why there's a lightening sign? Yeah... am a potterhead :) Avid reader, who gets intrigued by anything realted to business and tech. I am a competitve programmer cum a Data Science enthusiast cum a developer. On a journey to get better everyday (yeah, I try!!!).
+
+- 👨‍💻 Check out my profiles on CF and Kaggle:
+
+    [<img align="left" alt="Harsh | Codeforces" width="22px" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" />][Codeforces]
 [<img align="left" alt="Harsh | Kaggle" width="21px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][Kaggle]
 
 [Codeforces]: https://codeforces.com/profile/_idgaf_
 [Kaggle]: https://www.kaggle.com/thanos239
 
 <br/>
-<br/>
 
-You can reach out to me:  
+- 📫 Wanna reach out to me? Here, go ahead:  
 
-[<img align="left" alt="Harsh | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][Linkedin]
+    [<img align="left" alt="Harsh | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][Linkedin]
 [<img align="left" alt="Harsh | Gmail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />][Gmail]
 
 <!-- [website]: https://trunc8.github.io -->
