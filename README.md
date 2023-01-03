@@ -4,7 +4,7 @@ Currently a Senior Undergraduate at IIT BHU majoring in Electrical Engineering.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshnadar&label=Profile%20views&color=129e00&style=plastic" alt="harshnadar" /> </p>
 
-⚡ Wondering why there's a lightening sign? Yeah... am a potterhead :) Avid reader, who gets intrigued by anything realted to business and tech. I am a competitve programmer cum a Data Science enthusiast cum a developer. On a journey to get better everyday (yeah, I try!!!).
+⚡ Wondering why there's a lightening sign? Yeah... am a potterhead :) Avid reader, who gets intrigued by anything realted to business and tech. I am a Developer cum a Product Manager. On a journey to get better everyday (yeah, I try!!!).
 
 - 👨‍💻 Check out my profiles on CF and Kaggle:
 
