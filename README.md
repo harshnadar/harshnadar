@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Harsh Nadar.
 
-Currently a Senior Undergraduate at IIT BHU majoring in Electrical Engineering. 
+Currently a SWE @ Cisco. Completed my graduation from IIT BHU in Electrical Engineering. Previosuly interned at Bank of New York Mellon and AiDash, and a stealth US based startup. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshnadar&label=Profile%20views&color=129e00&style=plastic" alt="harshnadar" /> </p>
 
